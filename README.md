@@ -9,3 +9,6 @@ This is my FastAPI project.
 
 ## Run
 uvicorn main:app --reload
+
+## Author
+Mounikashiga
